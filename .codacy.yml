@@ -1,0 +1,4 @@
+engines:
+  shellcheck:
+    exclude_paths:
+      - "foo.sh"
